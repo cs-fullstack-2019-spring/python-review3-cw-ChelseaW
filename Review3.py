@@ -22,7 +22,7 @@ def into10(n, outside_mode):
 def problem2():
 
 
-
+# KEY: BOOKS? WTH are Books doing here?
     userInput = input("Enter your books")
     books = ""
     while(userInput != "="):

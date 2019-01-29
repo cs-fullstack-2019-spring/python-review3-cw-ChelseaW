@@ -1,3 +1,7 @@
+### KEY: 0 POINTS
+### KEY: No solutions produce the expected results 
+### No Comments
+
 # Python Review Misc Topics
 
 ### Problem 1:
